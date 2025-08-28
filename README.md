@@ -70,7 +70,7 @@ curl --request POST \
 
 ```json
 {
-  "timestamp": "2025-08-27T23:09:49.774596533",
+  "timestamp": "2025-08-27T23:09:49.774",
   "status": "SUCCESS",
   "message": "Message was sent successfully",
   "error": null
